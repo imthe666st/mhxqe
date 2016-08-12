@@ -2372,7 +2372,7 @@ var item_list = [
 var icon_list = [
     {"text": "None", "value": 0},
     {"text": "Rathian", "value": 1},
-    {"text": "Rathian2", "value": 129},
+    {"text": "Rathian2", "value": 121},
     {"text": "Gold Rathian", "value": 2},
     {"text": "Dreadqueen Rathian", "value": 3},
     {"text": "Rathalos", "value": 4},
@@ -2436,7 +2436,7 @@ var icon_list = [
     {"text": "Seltas", "value": 62},
     {"text": "Seregios", "value": 63},
     {"text": "Malfestio", "value": 64},
-    {"text": "Malfestio2", "value": 192},
+    {"text": "Malfestio2", "value": 184},
     {"text": "Glavenus", "value": 65},
     {"text": "Hellblade Glavenus", "value": 66},
     {"text": "Astalos", "value": 67},
