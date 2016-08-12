@@ -2372,6 +2372,7 @@ var item_list = [
 var icon_list = [
     {"text": "None", "value": 0},
     {"text": "Rathian", "value": 1},
+    {"text": "Rathian2", "value": 129},
     {"text": "Gold Rathian", "value": 2},
     {"text": "Dreadqueen Rathian", "value": 3},
     {"text": "Rathalos", "value": 4},
