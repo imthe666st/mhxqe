@@ -2436,6 +2436,7 @@ var icon_list = [
     {"text": "Seltas", "value": 62},
     {"text": "Seregios", "value": 63},
     {"text": "Malfestio", "value": 64},
+    {"text": "Malfestio2", "value": 192},
     {"text": "Glavenus", "value": 65},
     {"text": "Hellblade Glavenus", "value": 66},
     {"text": "Astalos", "value": 67},
